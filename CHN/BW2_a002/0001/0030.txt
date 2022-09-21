@@ -1,0 +1,8 @@
+網絡狀況好像不穩定……　\xf000Ȅ\x0001\x0009
+發生了\xfffe通信故障。\xfffe\xfffe如果您正在使用聯機房間，\xfffe會重新進入聯機房間。\xfffe除此以外的情況，\xfffe則會返回最後一次\xfffe儲存記錄的地點。\xfffe請按下Ａ鍵。
+在通信中\xfffe出現了故障（\xf000Ȅ\x0001\x0000）\xfffe請關閉電源，\xfffe重新啟動。\xfffe\xfffe如果此資訊\xfffe重複出現多次，\xfffe請聯繫服務中心\xfffe進行諮詢。
+發生了\xfffe通信故障。\xfffe\xfffe即將返回標題畫面，\xfffe請按下Ａ鍵。
+現在ＧＴＳ非常忙碌，\xfffe請稍等片刻後\xfffe再重新連接。\xfffe\xfffe已斷開Ｗｉ－Ｆｉ。\xfffe請按下Ａ鍵。
+在通信中\xfffe發生了故障。\xfffe請關閉電源，\xfffe重新啟動。\xfffe\xfffe如果此資訊\xfffe重複出現多次，\xfffe請聯繫服務中心\xfffe進行諮詢。
+發生了\xfffe通信故障。\xfffe\xfffe已斷開Ｗｉ－Ｆｉ。\xfffe將返回最後一次\xfffe儲存記錄的地點。\xfffe請按下Ａ鍵。
+發生了\xfffe通信故障。\xfffe\xfffe已斷開Ｗｉ－Ｆｉ。\xfffe即將返回標題畫面，\xfffe請按下Ａ鍵。

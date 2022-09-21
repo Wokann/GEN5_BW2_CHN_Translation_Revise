@@ -1,0 +1,11 @@
+請用喜歡的頻率\xfffe敲擊下屏幕１０次。
+檢測完成，\xfffe請和對方進行紅外線通信。
+正在覈對，\xfffe請勿關閉紅外線通信。
+紅外線通信連接成功！
+通信已斷開，\xfffe請將紅外線對齊。
+返回
+touch start
+節奏檢測
+no data
+no data
+no data

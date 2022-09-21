@@ -1,0 +1,11 @@
+请用喜欢的频率\xfffe敲击下屏幕１０次。
+检测完成，\xfffe请和对方进行红外线通信。
+正在核对，\xfffe请勿关闭红外线通信。
+红外线通信连接成功！
+通信已断开，\xfffe请将红外线对齐。
+返回
+touch start
+节奏检测
+no data
+no data
+no data

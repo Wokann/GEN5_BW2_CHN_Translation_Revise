@@ -1,0 +1,3 @@
+无法读取数据\xfffe请切断电源后\xfffe重新插入卡带
+无法保存数据\xfffe请切断电源后\xfffe重新插入卡带
+无法保存数据\xfffe备份技能故障\xfffe或者已到达使用寿命\xfffe无法保存\xfffe不过还是能进行游戏\xfffe请勿切断电源

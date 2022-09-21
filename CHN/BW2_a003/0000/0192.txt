@@ -1,0 +1,6 @@
+临时信息
+训练师！\xf000븁\x0000\xfffe我向你推荐的技能是\xfffe歇息！\xf000븁\x0000\xfffe歇息是可以回复\xfffe体力的技能！\xf000븁\x0000\xfffe而且飞行系宝可梦在\xfffe使用后的一个回合间\xf000븀\x0000\xfffe将失去飞行属性的属性！\xf000븁\x0000\xfffe也就意味着失去\xfffe飞行属性的弱点。\xf000븁\x0000\xfffe以及飞行属性对地上属性等的\xfffe抗性。\xf000븁\x0000\xfffe会改变属性的关系，\xfffe是个很有技巧的技能！
+训练师！\xf000븁\x0000\xfffe我向你推荐的技能是\xfffe光学合成！\xf000븁\x0000\xfffe光学合成是回复\xfffe体力的技能！\xf000븁\x0000\xfffe只要阳光强烈\xfffe就可以回复\xf000븀\x0000\xfffe大量的体力……\xf000븁\x0000\xfffe但如果下雨或者下冰雹\xfffe或者是沙尘暴的时候\xf000븁\x0000\xfffe回复效果就会很差，\xfffe一定要注意天气变化！
+训练师！\xf000븁\x0000\xfffe我要向你推荐的技能是\xfffe治愈铃声！\xf000븁\x0000\xfffe治愈铃声可以\xfffe回复我方宝可梦的\xf000븀\x0000\xfffe异常状态！\xf000븁\x0000\xfffe可以回复手上所有\xfffe宝可梦的异常状态，\xf000븀\x0000\xfffe是充满爱的技能！
+训练师！\xf000븁\x0000\xfffe我要向你推荐的技能是\xfffe顺风！\xf000븁\x0000\xfffe使用顺风后的\xfffe三个回合内\xf000븀\x0000\xfffe我放所有宝可梦的速度\xf000븀\x0000\xfffe都会变成两倍！\xf000븁\x0000\xfffe只要能比对方\xfffe更快行动，\xf000븀\x0000\xfffe就能得到绝对的优势！
+训练师！\xf000븁\x0000\xfffe我要向你推荐的技能是\xfffe分享痛楚！\xf000븁\x0000\xfffe分享痛楚是将\xfffe敌我双方的体力相加\xf000븀\x0000\xfffe然后再减半，\xf000븀\x0000\xfffe平分给双方的技能！\xf000븁\x0000\xfffe如果对方的\xfffe体力比我方的\xf000븀\x0000\xfffe要多的话，\xf000븁\x0000\xfffe我方的体力就能增加，\xfffe而对方的体力\xf000븀\x0000\xfffe就会减少！

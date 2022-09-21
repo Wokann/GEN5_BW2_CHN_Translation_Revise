@@ -1,0 +1,8 @@
+网络状况好像不稳定……　\xf000Ȅ\x0001\x0009
+发生了\xfffe通信故障。\xfffe\xfffe如果您正在使用联机房间，\xfffe会重新进入联机房间。\xfffe除此以外的情况，\xfffe则会返回最后一次\xfffe保存记录的地点。\xfffe请按下Ａ键。
+在通信中\xfffe出现了故障（\xf000Ȅ\x0001\x0000）\xfffe请关闭电源，\xfffe重新启动。\xfffe\xfffe如果此信息\xfffe重复出现多次，\xfffe请联系服务中心\xfffe进行咨询。
+发生了\xfffe通信故障。\xfffe\xfffe即将返回标题画面，\xfffe请按下Ａ键。
+现在ＧＴＳ非常忙碌，\xfffe请稍等片刻后\xfffe再重新连接。\xfffe\xfffe已断开Ｗｉ－Ｆｉ。\xfffe请按下Ａ键。
+在通信中\xfffe发生了故障。\xfffe请关闭电源，\xfffe重新启动。\xfffe\xfffe如果此信息\xfffe重复出现多次，\xfffe请联系服务中心\xfffe进行咨询。
+发生了\xfffe通信故障。\xfffe\xfffe已断开Ｗｉ－Ｆｉ。\xfffe将返回最后一次\xfffe保存记录的地点。\xfffe请按下Ａ键。
+发生了\xfffe通信故障。\xfffe\xfffe已断开Ｗｉ－Ｆｉ。\xfffe即将返回标题画面，\xfffe请按下Ａ键。

@@ -1,6 +1,6 @@
 ―\xfffe―\xfffe―\xfffe―\xfffe―
 用長尾巴或長手\xfffe拍打對方。\xfffe
-用強勁的手刀\xfffe擊打對方。\xfffe容易發動會心一擊。
+用強勁的空手劈\xfffe擊打對方。\xfffe容易發動會心一擊。
 用反覆拍打的方式\xfffe連續攻擊\xfffe２－５次。
 用怒濤般的拳擊\xfffe連續攻擊\xfffe２－５次。
 積蓄力量\xfffe用拳頭攻擊。\xfffe
@@ -257,7 +257,7 @@
 用積蓄的力量\xfffe回復自己的ＨＰ。\xfffe積蓄得越多回復量越大。
 向對方吹出灼熱的風\xfffe進行攻擊。\xfffe有時會使對方燒傷。
 在５回合內降下冰雹，\xfffe冰系以外的寶可夢\xfffe都會受到傷害。
-挑撥對方，\xfffe令其不能連續使用\xfffe同樣的技能。
+挑釁對方，\xfffe令其不能連續使用\xfffe同樣的技能。
 讓對方混亂，\xfffe同時對方的特攻\xfffe也會提升。
 放出怪異的火\xfffe使對方被燒傷。\xfffe
 使用後自己陷入瀕死，\xfffe但對方的攻擊和\xfffe特攻也會大幅下降。
@@ -267,7 +267,7 @@
 吸引全場的注意力，\xfffe將對方的攻擊全部\xfffe轉移到自己身上。
 用自然之力攻擊。\xfffe根據場所的不同\xfffe會變化成不同的技能。
 下一回合使用的\xfffe電系技能威力上升。\xfffe自己的特防也會提升。
-挑撥對方，\xfffe使其在３回合之內\xfffe只能用攻擊技能。
+挑釁對方，\xfffe使其在３回合之內\xfffe只能用攻擊技能。
 支援同伴，\xfffe使其攻擊技能的威力\xfffe獲得提升。
 用捉住對方的空隙，\xfffe交換對方和\xfffe自己的道具。
 變成和對方\xfffe相同的特性。\xfffe
@@ -278,7 +278,7 @@
 反彈對方使用的\xfffe異常狀態等干擾技能。\xfffe
 回收在戰鬥中\xfffe已經消耗掉的道具，\xfffe使之能再次使用。
 出招前被對方\xfffe打中的話，\xfffe技能威力會變為２倍。
-用手刀進行致命一擊，\xfffe可以擊碎光之壁和反射盾。\xfffe
+用空手劈進行致命一擊，\xfffe可以擊碎光之壁和反射盾。\xfffe
 打哈欠引起睡意。\xfffe下回合對手會進入\xfffe睡眠狀態。
 封住對方的物品，\xfffe在戰鬥結束前\xfffe不能使用。
 強制將對方的ＨＰ\xfffe同步為自己的ＨＰ。\xfffe
@@ -331,7 +331,7 @@
 用汙水攻擊對方。\xfffe有時會降低對方的命中。\xfffe
 盡情發射種子攻擊。\xfffe連續攻擊對方２－５次。\xfffe
 以迅捷的速度玩弄對方後斬切，\xfffe攻擊必定會命中。\xfffe
-發射尖銳的冰針\xfffe連續攻擊對方２－５次。\xfffe
+發射尖銳的冰錐\xfffe連續攻擊對方２－５次。\xfffe
 使皮膚變得像\xfffe鋼鐵一般堅硬。\xfffe大幅提升自身的防禦。
 張開雙手\xfffe封住退路。\xfffe使對方不能逃走。
 大聲吼叫提升氣勢，\xfffe提升自己的攻擊。\xfffe

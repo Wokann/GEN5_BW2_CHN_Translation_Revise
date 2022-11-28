@@ -49,7 +49,7 @@
 這個寶可夢\xfffe使用光之石後\xf000븀\x0000\xfffe即可進化。\xf000븁\x0000
 這個寶可夢\xfffe使用闇之石後\xf000븀\x0000\xfffe即可進化。\xf000븁\x0000
 這個寶可夢\xfffe學會模仿後，\xf000븁\x0000\xfffe升級就可以\xfffe進化了。\xf000븁\x0000
-這個寶可夢\xfffe學會雙重攻擊後，\xf000븁\x0000\xfffe升級就可以\xfffe進化了。\xf000븁\x0000
+這個寶可夢\xfffe學會二連擊後，\xf000븁\x0000\xfffe升級就可以\xfffe進化了。\xf000븁\x0000
 這個寶可夢\xfffe學會滾動後，\xf000븁\x0000\xfffe升級就可以\xfffe進化了。\xf000븁\x0000
 這個寶可夢\xfffe學會原始之力後，\xf000븁\x0000\xfffe升級就可以\xfffe進化了。\xf000븁\x0000
 這個寶可夢\xfffe在使用葉之石或太陽之石後，\xf000븁\x0000\xfffe會進化成\xfffe不同的寶可夢。\xf000븁\x0000

@@ -49,7 +49,7 @@
 这个宝可梦\xfffe使用光之石后\xf000븀\x0000\xfffe即可进化。\xf000븁\x0000
 这个宝可梦\xfffe使用暗之石后\xf000븀\x0000\xfffe即可进化。\xf000븁\x0000
 这个宝可梦\xfffe学会模仿后，\xf000븁\x0000\xfffe升级就可以\xfffe进化了。\xf000븁\x0000
-这个宝可梦\xfffe学会双重攻击后，\xf000븁\x0000\xfffe升级就可以\xfffe进化了。\xf000븁\x0000
+这个宝可梦\xfffe学会二连击后，\xf000븁\x0000\xfffe升级就可以\xfffe进化了。\xf000븁\x0000
 这个宝可梦\xfffe学会滚动后，\xf000븁\x0000\xfffe升级就可以\xfffe进化了。\xf000븁\x0000
 这个宝可梦\xfffe学会原始之力后，\xf000븁\x0000\xfffe升级就可以\xfffe进化了。\xf000븁\x0000
 这个宝可梦\xfffe在使用叶之石或太阳之石后，\xf000븁\x0000\xfffe会进化成\xfffe不同的宝可梦。\xf000븁\x0000

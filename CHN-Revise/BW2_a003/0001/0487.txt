@@ -55,8 +55,8 @@ no data
 唔……抱歉，\xfffe別人叫我去了。
 no data
 謝謝！\xfffe地點……明白了！\xf000븁\x0000\xfffe我就先去\xfffe黑都市了！
-卡蓮：唔……加油！！\xfffe我決定去\xf000븁\x0000\xfffe黑都市了！\xfffe神奇寶貝對戰讓我燃了！！
-卡蓮：不斷地修行，\xfffe我和我的神奇寶貝\xf000븀\x0000\xfffe可能也累了……
+卡蓮：唔……加油！！\xfffe我決定去\xf000븁\x0000\xfffe黑都市了！\xfffe寶可夢對戰讓我燃了！！
+卡蓮：不斷地修行，\xfffe我和我的寶可夢\xf000븀\x0000\xfffe可能也累了……
 卡蓮：我想在黑都市\xfffe看看我修行的成果！
 卡蓮：我想在黑都市\xfffe看看我修行的成果！\xf000븁\x0000\xfffe對了！可以的話能\xfffe把我帶去\xf000븀\x0000\xfffe黑都市嗎！
 怎麼這樣……\xfffe下次再說吧！
@@ -138,7 +138,7 @@ no data
 樂鬥：我馬上要搬到\xfffe黑都市去，\xf000븀\x0000\xfffe我要去試試我有多少能耐。
 樂鬥：唔……\xf000븁\x0000\xfffe我想去一個能\xfffe看看我作為訓練師\xf000븀\x0000\xfffe有多少能耐的地方。
 樂鬥：你的黑都市好像\xfffe很有意思的樣子。\xf000븀\x0000\xfffe我也能去嗎？
-樂鬥：我最喜歡神奇寶貝了。\xf000븁\x0000\xfffe不過我想用收服的神奇寶貝\xfffe試一下自己作為訓練師\xf000븀\x0000\xfffe有多少實力！\xf000븁\x0000\xfffe你能帶我去\xfffe黑都市嗎？
+樂鬥：我最喜歡寶可夢了。\xf000븁\x0000\xfffe不過我想用收服的寶可夢\xfffe試一下自己作為訓練師\xf000븀\x0000\xfffe有多少實力！\xf000븁\x0000\xfffe你能帶我去\xfffe黑都市嗎？
 哎？失望……\xfffe等下次有機會吧！
 唔！\xfffe果然改變主意了。\xf000븁\x0000\xfffe我已經決定去\xfffe其他的黑都市了。
 no data
@@ -192,7 +192,7 @@ no data
 no data
 太好了！\xf000븁\x0000\xfffe我要在黑都市\xfffe做大生意！
 小健：我要去\xfffe黑都市！\xf000븁\x0000\xfffe我要在新的城市\xfffe進化我的對戰！
-小健：白森林沒辦法\xfffe強化神奇寶貝對戰……
+小健：白森林沒辦法\xfffe強化寶可夢對戰……
 小健：你的黑都市\xfffe好像有很多人在對戰啊，\xf000븀\x0000\xfffe真是羨慕。
 小健：我想要作為\xfffe訓練師可以精進\xf000븀\x0000\xfffe水平的生活。\xf000븁\x0000\xfffe你能帶我去\xfffe你的城市嗎？
 是嗎，\xfffe那就算了。
@@ -226,7 +226,7 @@ no data
 艾米：我要去下一個城市！\xf000븁\x0000\xfffe期待黑都市。
 艾米：啊啊！差不多該去\xfffe下一個城市了。
 艾米：黑都市真是好啊！\xfffe好想去看看！
-艾米：下次旅行\xfffe我想以神奇寶貝對戰\xf000븀\x0000\xfffe為目的。\xf000븁\x0000\xfffe你能帶我去\xfffe黑都市嗎？
+艾米：下次旅行\xfffe我想以寶可夢對戰\xf000븀\x0000\xfffe為目的。\xf000븁\x0000\xfffe你能帶我去\xfffe黑都市嗎？
 哎？\xfffe遺憾……
 唔……還是算了吧！\xf000븁\x0000\xfffe我要去其他的\xfffe黑都市！
 no data
@@ -296,7 +296,7 @@ no data
 no data
 謝謝！\xfffe地點……我知道！\xf000븁\x0000\xfffe我先去\xfffe白森林了！
 卡蓮：唔……火焰！！\xfffe我決定去\xfffe白森林！\xf000븁\x0000\xfffe在修行中燃燒！
-卡蓮：不停地對戰，\xfffe我和我的神奇寶貝\xf000븀\x0000\xfffe也都累了……
+卡蓮：不停地對戰，\xfffe我和我的寶可夢\xf000븀\x0000\xfffe也都累了……
 卡蓮：要展現對戰的\xfffe成果……就要修行！
 卡蓮：我想將對戰的\xfffe成果轉換成修行！\xf000븁\x0000\xfffe我說！可以的話能\xfffe將我帶去\xf000븀\x0000\xfffe白森林嗎！
 怎麼這樣……\xfffe下次再說吧！
@@ -352,9 +352,9 @@ no data
 no data
 謝謝！\xfffe我這就去。\xf000븁\x0000\xfffe在白森林見吧！
 恆和：抱歉啊，\xfffe我正在準備去\xf000븀\x0000\xfffe白森林，\xf000븀\x0000\xfffe有什麼事去白森林說吧！
-恆和：我的神奇寶貝\xfffe非常固執地想去\xf000븀\x0000\xfffe白森林。
-恆和：白森林嗎……\xf000븁\x0000\xfffe我的神奇寶貝吵著鬧著\xfffe要去白森林。
-恆和：白森林嗎……\xf000븁\x0000\xfffe為了我的神奇寶貝，\xfffe去看看也不錯。\xf000븁\x0000\xfffe唔？你！\xfffe拜託了。\xf000븁\x0000\xfffe能將我帶去\xfffe白森林嗎？
+恆和：我的寶可夢\xfffe非常固執地想去\xf000븀\x0000\xfffe白森林。
+恆和：白森林嗎……\xf000븁\x0000\xfffe我的寶可夢吵著鬧著\xfffe要去白森林。
+恆和：白森林嗎……\xf000븁\x0000\xfffe為了我的寶可夢，\xfffe去看看也不錯。\xf000븁\x0000\xfffe唔？你！\xfffe拜託了。\xf000븁\x0000\xfffe能將我帶去\xfffe白森林嗎？
 什麼！這是人生\xfffe前輩的請求啊！\xf000븀\x0000\xfffe你再考慮一下吧，年輕人。
 抱歉！\xf000븁\x0000\xfffe我完全給忘了，\xfffe已經有人約了我了。
 no data
@@ -366,7 +366,7 @@ no data
 啊！居然敢拒絕\xfffe我的請求。
 我改變主意了。\xf000븁\x0000\xfffe我找到了其他\xfffe更好的人……\xf000븀\x0000\xfffe抱歉啦。
 no data
-謝了。\xf000븁\x0000\xfffe很期待和神奇寶貝\xfffe好好地生活啊。
+謝了。\xf000븁\x0000\xfffe很期待和寶可夢\xfffe好好地生活啊。
 阿仁：我馬上要去\xfffe其他的白森林了，\xf000븀\x0000\xfffe果然我還是期待悠哉的生活啊。
 阿仁：啊啊。\xf000븁\x0000\xfffe文明的生活雖好，\xfffe但很容易累啊。
 阿仁：你的白森林好像很舒適，\xfffe真讓人羨慕……
@@ -375,14 +375,14 @@ no data
 啊！抱歉\xf000븁\x0000\xfffe我已經決定去\xfffe另一個白森林了。
 no data
 謝謝你帶我去！\xf000븁\x0000\xfffe可以期待住到\xfffe悠哉的大自然中去了。
-樂鬥：我馬上要\xfffe搬去白森林了。\xf000븁\x0000\xfffe很期待在自然中\xfffe遇到神奇寶貝。
-樂鬥：唔……\xf000븁\x0000\xfffe比試對戰的生活\xfffe也讓我厭倦了……\xf000븁\x0000\xfffe我想每天都能\xfffe邂逅到神奇寶貝。
-樂鬥：你的白森林\xf000븁\x0000\xfffe能遇見各種神奇寶貝，\xfffe真有魅力。
-樂鬥：作為訓練師\xfffe比試的生活\xf000븀\x0000\xfffe雖然很刺激，但我厭倦了！\xf000븁\x0000\xfffe我想眺望著神奇寶貝\xfffe生活。\xf000븁\x0000\xfffe你能帶我去\xfffe你的白森林嗎？
+樂鬥：我馬上要\xfffe搬去白森林了。\xf000븁\x0000\xfffe很期待在自然中\xfffe遇到寶可夢。
+樂鬥：唔……\xf000븁\x0000\xfffe比試對戰的生活\xfffe也讓我厭倦了……\xf000븁\x0000\xfffe我想每天都能\xfffe邂逅到寶可夢。
+樂鬥：你的白森林\xf000븁\x0000\xfffe能遇見各種寶可夢，\xfffe真有魅力。
+樂鬥：作為訓練師\xfffe比試的生活\xf000븀\x0000\xfffe雖然很刺激，但我厭倦了！\xf000븁\x0000\xfffe我想眺望著寶可夢\xfffe生活。\xf000븁\x0000\xfffe你能帶我去\xfffe你的白森林嗎？
 哎？失望……\xfffe等下次有機會吧！
 唔！我改變主意了。\xf000븁\x0000\xfffe我決定去其他的\xfffe白森林。
 no data
-呵呵！\xf000븁\x0000\xfffe很期待和\xfffe神奇寶貝們相遇的\xf000븀\x0000\xfffe輕鬆生活啊！
+呵呵！\xf000븁\x0000\xfffe很期待和\xfffe寶可夢們相遇的\xf000븀\x0000\xfffe輕鬆生活啊！
 由美子：我馬上就要搬到\xfffe白森林去了！\xf000븀\x0000\xfffe期待新生活！
 由美子：我對這種\xfffe追求效率的生活\xf000븀\x0000\xfffe已經厭倦了。\xf000븁\x0000\xfffe我想在白森林\xfffe好好地休息。
 由美子：那邊的白森林\xfffe風景優美，又可以放鬆，\xf000븀\x0000\xfffe真是羨慕啊……
@@ -391,9 +391,9 @@ no data
 抱歉，\xfffe我改變主意了。\xf000븁\x0000\xfffe我決定去\xfffe其他的白森林。
 no data
 謝謝！\xf000븁\x0000\xfffe期待在白森林\xfffe悠哉的生活！
-美穗：我馬上就要搬到\xfffe白森林去了。\xf000븁\x0000\xfffe期待和可愛的\xfffe神奇寶貝們一起生活！
+美穗：我馬上就要搬到\xfffe白森林去了。\xf000븁\x0000\xfffe期待和可愛的\xfffe寶可夢們一起生活！
 美穗：最近\xfffe裝飾自己\xf000븀\x0000\xfffe讓我很累……\xf000븁\x0000\xfffe我想在白森林\xfffe好好地放鬆。
-美穗：那邊的白森林\xf000븁\x0000\xfffe有很多可愛的神奇寶貝，\xfffe好羨慕。
+美穗：那邊的白森林\xf000븁\x0000\xfffe有很多可愛的寶可夢，\xfffe好羨慕。
 美穗：感覺\xfffe買東西購物\xf000븀\x0000\xfffe也已經厭倦了。\xf000븁\x0000\xfffe我想要去\xfffe更自然的白森林，\xf000븀\x0000\xfffe你能帶我去嗎？
 真小氣！
 浮躁的我……\xf000븁\x0000\xfffe其實已經決定\xfffe去其他人的白森林了，\xf000븀\x0000\xfffe抱歉啊。
@@ -407,14 +407,14 @@ no data
 抱歉，\xfffe我還是決定跟別人走了，\xf000븀\x0000\xfffe抱歉。
 no data
 謝了！\xfffe去了白森林\xf000븁\x0000\xfffe就能隨心所欲地\xfffe生活了！
-宗佑：其實我就要去\xfffe白森林了！\xf000븁\x0000\xfffe那裡能和很多人，很多神奇寶貝\xfffe心意相通！
-宗佑：啊啊……\xfffe我好像和別人，和神奇寶貝\xf000븁\x0000\xfffe互通心意啊……
+宗佑：其實我就要去\xfffe白森林了！\xf000븁\x0000\xfffe那裡能和很多人，很多寶可夢\xfffe心意相通！
+宗佑：啊啊……\xfffe我好像和別人，和寶可夢\xf000븁\x0000\xfffe互通心意啊……
 宗佑：你的\xfffe白森林\xf000븁\x0000\xfffe可以讓大家\xfffe互相表達感情，\xf000븀\x0000\xfffe太羨慕了……
-宗佑：最近我\xfffe不光想要讓\xf000븀\x0000\xfffe自己的心情傳達給對方。\xf000븁\x0000\xfffe而是想要更多地\xfffe促進人和神奇寶貝的溝通了。\xf000븁\x0000\xfffe我期待這樣的\xfffe生活。\xf000븁\x0000\xfffe你能帶我去\xfffe你的白森林嗎？
+宗佑：最近我\xfffe不光想要讓\xf000븀\x0000\xfffe自己的心情傳達給對方。\xf000븁\x0000\xfffe而是想要更多地\xfffe促進人和寶可夢的溝通了。\xf000븁\x0000\xfffe我期待這樣的\xfffe生活。\xf000븁\x0000\xfffe你能帶我去\xfffe你的白森林嗎？
 哎哎……你居然不瞭解\xfffe我的心情……
 啊！\xf000븁\x0000\xfffe我因為一些原因\xfffe要去其他城市，\xf000븀\x0000\xfffe抱歉了！
 no data
-真開心啊，\xfffe這下許多的人和神奇寶貝\xf000븁\x0000\xfffe都能互通心意地\xfffe生活了。
+真開心啊，\xfffe這下許多的人和寶可夢\xf000븁\x0000\xfffe都能互通心意地\xfffe生活了。
 伊莉莎：我馬上要去\xfffe其他的白森林了，\xf000븀\x0000\xfffe那會是個什麼樣的地方呢？
 伊莉莎：黑城市\xfffe什麼都都有，\xf000븀\x0000\xfffe但總感覺少了點什麼。
 伊莉莎：白森林嗎？\xfffe感覺心靈很充實啊。\xf000븁\x0000\xfffe能有這樣的生活\xfffe真是羨慕。
@@ -432,9 +432,9 @@ no data
 no data
 太好了！\xf000븁\x0000\xfffe馬上和\xfffe白森林連線吧！
 小健：我馬上就要去\xfffe白森林了。\xf000븁\x0000\xfffe在新的城鎮\xfffe擴展新的知識！
-小健：在黑都市不斷地\xfffe進行神奇寶貝對戰，\xf000븀\x0000\xfffe我怎麼想，\xf000븀\x0000\xfffe都覺得少了點什麼。\xf000븁\x0000\xfffe我想在有更廣闊視野的\xfffe環境下生活。
-小健：你的白森林\xfffe有很多神奇寶貝啊。\xf000븁\x0000\xfffe還能擴展視野，\xfffe真是羨慕啊。
-小健：作為訓練師\xfffe要用更廣闊的視野\xf000븀\x0000\xfffe去注視神奇寶貝。\xf000븁\x0000\xfffe你能帶我去\xfffe你的城鎮嗎？\xf000븁\x0000
+小健：在黑都市不斷地\xfffe進行寶可夢對戰，\xf000븀\x0000\xfffe我怎麼想，\xf000븀\x0000\xfffe都覺得少了點什麼。\xf000븁\x0000\xfffe我想在有更廣闊視野的\xfffe環境下生活。
+小健：你的白森林\xfffe有很多寶可夢啊。\xf000븁\x0000\xfffe還能擴展視野，\xfffe真是羨慕啊。
+小健：作為訓練師\xfffe要用更廣闊的視野\xf000븀\x0000\xfffe去注視寶可夢。\xf000븁\x0000\xfffe你能帶我去\xfffe你的城鎮嗎？\xf000븁\x0000
 是嗎，\xfffe那就算了。
 ……我改變主意了。\xf000븁\x0000\xfffe我決定去其他的\xfffe白森林。
 no data

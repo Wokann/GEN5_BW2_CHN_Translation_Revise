@@ -12,7 +12,7 @@
 這是獎章盒子！\xf000븁\x0000\xfffe而我就是\xfffe獎章大叔！\xf000븁\x0000\xfffe……對了，你知道\xfffe獎章拉力賽嗎？
 不管怎麼樣，\xfffe我都再說明一下吧！\xf000븁\x0000\xfffe獎章拉力賽就是\xfffe評價訓練師各種行動的\xf000븀\x0000\xfffe好管閒事的活動！\xf000븁\x0000\xfffe……所以為紀念你的參加，\xfffe這個獎章給你！\xf000븁\x0000
 還有獎章拉力賽不可缺少的\xfffe提示獎章也給你！\xf000븁\x0000
-另外！\xf000븁\x0000\xfffe只要滿足條件後\xfffe去神奇寶貝中心，\xf000븀\x0000\xfffe我就會給你獎章！\xf000븁\x0000\xfffe總之打開獎章盒子，\xfffe看看裡面的情況吧！再見！\xf000븁\x0000
+另外！\xf000븁\x0000\xfffe只要滿足條件後\xfffe去寶可夢中心，\xf000븀\x0000\xfffe我就會給你獎章！\xf000븁\x0000\xfffe總之打開獎章盒子，\xfffe看看裡面的情況吧！再見！\xf000븁\x0000
 哇！你收集了\xfffe很多獎章啊！\xf000븁\x0000\xfffe我要改裝\xf000Ā\x0001\x0000的\xfffe獎章盒子！\xf000븁\x0000\xfffe哈！呀！\xf000븁\x0000
 還要送給你改裝紀念的\xfffe獎章！\xf000븁\x0000
 繼續改裝！\xfffe呀！哈！\xf000븁\x0000
@@ -58,4 +58,4 @@ no data
 no data
 no data
 no data
-阿戴克：\xf000Ā\x0001\x0000！\xf000븁\x0000\xfffe檜扇建了一個\xfffe新的神奇寶貝道館。\xf000븁\x0000\xfffe聽說道館首領\xfffe已經到了！\xf000븁\x0000\xfffe去試試看自己有\xfffe多強了吧！\xf000븁\x0000
+阿戴克：\xf000Ā\x0001\x0000！\xf000븁\x0000\xfffe檜扇建了一個\xfffe新的寶可夢道館。\xf000븁\x0000\xfffe聽說道館首領\xfffe已經到了！\xf000븁\x0000\xfffe去試試看自己有\xfffe多強了吧！\xf000븁\x0000

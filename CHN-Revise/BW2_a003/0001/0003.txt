@@ -6,7 +6,7 @@ no data
 no data
 no data
 no data
-拓郎：堅決的人就是\xfffe想要的東西就一定要得到手。\xf000븁\x0000\xfffe如果你有什麼神奇寶貝是想要的，\xfffe就一定不能放棄！\xf000븁\x0000\xfffe清澈正義的慾望就一定要\xfffe貫徹到底！
+拓郎：堅決的人就是\xfffe想要的東西就一定要得到手。\xf000븁\x0000\xfffe如果你有什麼寶可夢是想要的，\xfffe就一定不能放棄！\xf000븁\x0000\xfffe清澈正義的慾望就一定要\xfffe貫徹到底！
 拓郎：最堅決的\xfffe我們常去的商店裡\xf000븁\x0000\xfffe好像進了\xfffe最新的道具了！
 拓郎：以前這裡有不少\xfffe唯利是圖的壞人，\xf000븀\x0000\xfffe不過我基本都擺平了！\xf000븁\x0000\xfffe呵！黑都市的和平\xfffe由我來創造！
 no data
@@ -26,7 +26,7 @@ no data
 no data
 no data
 no data
-卡蓮：我聽說有強者\xfffe雲集的修行場，\xf000븀\x0000\xfffe就帶著神奇寶貝們來了！\xf000븁\x0000\xfffe你也是訓練師吧！\xfffe大家一同努力吧！
+卡蓮：我聽說有強者\xfffe雲集的修行場，\xf000븀\x0000\xfffe就帶著寶可夢們來了！\xf000븁\x0000\xfffe你也是訓練師吧！\xfffe大家一同努力吧！
 卡蓮：你是\xf000Ā\x0001\x0000吧！\xf000븁\x0000\xfffe你好像已經攻克了\xfffe大部分的黑色摩天樓了，\xf000븀\x0000\xfffe不過我也不會輸！
 卡蓮：恭喜你稱霸了\xfffe黑色摩天樓，\xf000Ā\x0001\x0000！！\xf000븀\x0000\xfffe你已經名聲在外了！\xf000븁\x0000\xfffe聽說商店都已經有你的\xfffe制霸紀念品了！
 no data
@@ -38,8 +38,8 @@ no data
 no data
 no data
 no data
-一穂：為了寫論文，\xfffe我來到了黑都市。\xf000븁\x0000\xfffe題目是都市生活和神奇寶貝！\xf000븁\x0000\xfffe我要調查神奇寶貝對於在\xfffe大城市中精疲力盡的人們\xf000븀\x0000\xfffe有怎樣的治癒效果！
-一穂：我在黑都市\xfffe調查的研究\xf000븀\x0000\xfffe終於算是完成了！\xf000븁\x0000\xfffe果然在城市裡，\xfffe最好的解壓方法就是\xf000븀\x0000\xfffe和神奇寶貝們接觸啊！
+一穂：為了寫論文，\xfffe我來到了黑都市。\xf000븁\x0000\xfffe題目是都市生活和寶可夢！\xf000븁\x0000\xfffe我要調查寶可夢對於在\xfffe大城市中精疲力盡的人們\xf000븀\x0000\xfffe有怎樣的治癒效果！
+一穂：我在黑都市\xfffe調查的研究\xf000븀\x0000\xfffe終於算是完成了！\xf000븁\x0000\xfffe果然在城市裡，\xfffe最好的解壓方法就是\xf000븀\x0000\xfffe和寶可夢們接觸啊！
 no data
 no data
 no data
@@ -71,7 +71,7 @@ no data
 no data
 no data
 由美子：我在著名公司雲集的\xfffe黑都市中也可算是\xf000븀\x0000\xfffe屈指可數的大公司上班！\xf000븁\x0000\xfffe我要努力工作，\xfffe出人頭地！
-由美子：我不行了！不行了！\xfffe啊啊啊啊啊啊啊啊啊啊啊啊啊！\xf000븁\x0000\xfffe嗚……工作失敗，\xfffe男朋友也分手了……\xf000븁\x0000\xfffe我想逃到白森林去……\xfffe讓森林和神奇寶貝治癒我……
+由美子：我不行了！不行了！\xfffe啊啊啊啊啊啊啊啊啊啊啊啊啊！\xf000븁\x0000\xfffe嗚……工作失敗，\xfffe男朋友也分手了……\xf000븁\x0000\xfffe我想逃到白森林去……\xfffe讓森林和寶可夢治癒我……
 由美子：前幾天我在\xfffe公司解決了一個大難題，\xf000븀\x0000\xfffe大家都表揚我了♪\xf000븁\x0000\xfffe雖然發生了很多事，\xfffe但還好我堅持了下來！\xf000븁\x0000\xfffe今後我也要在這個黑都市裡\xfffe好好努力賺錢。
 no data
 no data
@@ -94,9 +94,9 @@ no data
 宏則：你去商店看了嗎？\xfffe進新商品了！\xf000븁\x0000\xfffe但是還是沒有\xfffe我想要的那個東西……\xf000븁\x0000\xfffe再不得到那個的話\xfffe我就麻煩了！
 宏則：商店裡終於進\xfffe那個東西了！\xf000븀\x0000\xfffe我終於等到了！\xf000븁\x0000\xfffe……哎？那東西是什麼？\xf000븁\x0000\xfffe這是個人隱私！\xfffe我是不會告訴你的！
 no data
-小健：為挑戰合眾難關，\xfffe黑色摩天樓，\xf000븀\x0000\xfffe全世界的訓練師\xf000븀\x0000\xfffe都來到了這裡。\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000也要挑戰嗎？\xf000븁\x0000\xfffe前方有艱難的戰鬥在等著你，\xfffe要帶上最強的神奇寶貝啊。
+小健：為挑戰合眾難關，\xfffe黑色摩天樓，\xf000븀\x0000\xfffe全世界的訓練師\xf000븀\x0000\xfffe都來到了這裡。\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000也要挑戰嗎？\xf000븁\x0000\xfffe前方有艱難的戰鬥在等著你，\xfffe要帶上最強的寶可夢啊。
 小健：合眾的\xfffe黑色摩天樓，\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000大放光彩！\xf000븁\x0000\xfffe但是不能大意，\xfffe越往上，\xf000븀\x0000\xfffe對手就越強悍……\xf000븁\x0000\xfffe這是經驗者的忠告，\xfffe努力向上爬吧。
-小健：合眾的\xfffe黑色摩天樓，\xf000븀\x0000\xfffe終於徵服了！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000……\xfffe好厲害啊……\xf000븁\x0000\xfffe我挑戰了無數次，\xfffe但每一次都失敗，\xf000븀\x0000\xfffe漸漸也放棄了……\xf000븁\x0000\xfffe你始終堅信神奇寶貝和自己，\xfffe我對你表示尊敬。
+小健：合眾的\xfffe黑色摩天樓，\xf000븀\x0000\xfffe終於徵服了！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000……\xfffe好厲害啊……\xf000븁\x0000\xfffe我挑戰了無數次，\xfffe但每一次都失敗，\xf000븀\x0000\xfffe漸漸也放棄了……\xf000븁\x0000\xfffe你始終堅信寶可夢和自己，\xfffe我對你表示尊敬。
 no data
 no data
 no data

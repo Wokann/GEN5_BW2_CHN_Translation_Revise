@@ -5,9 +5,9 @@
 是
 否
 正在儲存記錄，\xfffe請稍候。
-請用手頭上的個人電腦進入\xfffe神奇寶貝全球連結系統的主頁，\xfffe輸入以上的遊戲同步器ＩＤ號碼\xfffe進行遊戲同步器的設定。\xfffe\xfffehttp://www.pokemon-gl.com/
+請用手頭上的個人電腦進入\xfffe寶可夢全球連結系統的主頁，\xfffe輸入以上的遊戲同步器ＩＤ號碼\xfffe進行遊戲同步器的設定。\xfffe\xfffehttp://www.pokemon-gl.com/
 獲得了遊戲同步器ＩＤ號碼。\xfffe\xfffe以上的遊戲同步器ＩＤ號碼\xfffe可以在遊戲開始時標題菜單的\xfffe遊戲同步器設定裡再次查看。\xf000븁\x0000
-請用手頭上的個人電腦進入\xfffe神奇寶貝全球連結系統的主頁，\xfffe輸入以上的遊戲同步器ＩＤ號碼\xfffe進行遊戲同步器的設定。\xfffe\xfffehttp://www.pokemon-gl.com/
+請用手頭上的個人電腦進入\xfffe寶可夢全球連結系統的主頁，\xfffe輸入以上的遊戲同步器ＩＤ號碼\xfffe進行遊戲同步器的設定。\xfffe\xfffehttp://www.pokemon-gl.com/
 遊戲同步器ＩＤ號碼
 已將遊戲同步器ＩＤ號碼\xfffe儲存在記錄中了。
 發生了伺服器錯誤，\xfffe請再次嘗試。\xfffe問題無法解決時，\xfffe請瀏覽參考說明書。\xfffe（錯誤代碼：１３２０１）
@@ -21,4 +21,4 @@
 發生了伺服器錯誤，\xfffe請再次嘗試。\xfffe問題無法解決時，\xfffe請瀏覽參考說明書。\xfffe（錯誤代碼：１３２０９）
 發生了伺服器錯誤，\xfffe請再次嘗試。\xfffe問題無法解決時，\xfffe請瀏覽參考說明書。\xfffe（錯誤代碼：１３２１０）
 伺服器混亂中，\xfffe連接失敗。\xfffe請稍等片刻後再嘗試。\xfffe（錯誤代碼：１３２１１）
-伺服器正在維護中。\xfffe關於維護的詳細情報，\xfffe請看神奇寶貝全球連結系統的網站：\xfffehttp://www.pokemon-gl.com/\xfffe（錯誤代碼：１３２１２）
+伺服器正在維護中。\xfffe關於維護的詳細情報，\xfffe請看寶可夢全球連結系統的網站：\xfffehttp://www.pokemon-gl.com/\xfffe（錯誤代碼：１３２１２）
